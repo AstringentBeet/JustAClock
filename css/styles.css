@@ -1,0 +1,18 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(250, 249, 213);
+}
+
+
+header h1{
+    font-size: 5rem;
+}
+
+header {
+    position: absolute;
+    margin: 0;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
