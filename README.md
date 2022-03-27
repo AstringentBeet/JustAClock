@@ -1,4 +1,4 @@
-# Just a Clock
+# Just A Clock
 
 
 ## Table of Contents
@@ -32,7 +32,7 @@ be a graphic-based application, this will not be an HTML, let alone a semantical
 
 - The initial versions will feature use of CSS flexbox and grid, but will be manipulated primarily by:
 - Javascript is the sole purpose of this project. There won't be much work going on in the back-end since
-this will be more of a UI experiment, but this may change depending on what ideas come along the way.
+this will be more of a UI demo, but this may change depending on what ideas come along the way.
 
 ### What I Learned
 
@@ -41,6 +41,11 @@ Well as of right now, the importance of logging information, but that goes witho
 ### Resources
 
 Trust me, bro.
+
+## Progress Log
+
+#### 03/25/2022
+Created the skeleton of the app.
 
 ## Author
 
