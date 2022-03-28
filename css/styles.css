@@ -14,24 +14,25 @@ header {
 }
 
 header h1{
-    font-size: 5rem;
-    font-weight: bold;
+    font-size: 3.5rem;
 }
 
 #time {
+    letter-spacing:5px;
     display: flex;
     font-size: 2rem;
     justify-content: center;
     align-items: center;
+    height: 100px;
     max-width: 500px;
 }
 
-header p {
+p {
     width: 280px;
     text-align: center;
 }
 
-header p:nth-child(4){ 
+p:nth-child(4) {
     font-size: .9rem;
     margin-top: .5rem;
 }

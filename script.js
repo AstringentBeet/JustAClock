@@ -3,7 +3,7 @@ function clock(){
     var h = date.getHours(); 
     var m = date.getMinutes(); 
     var s = date.getSeconds(); 
-    var meridium = "AM";
+    var meridium = "am";
     
     if(h == 0){
         h = 12;
@@ -11,7 +11,7 @@ function clock(){
     
     if(h > 12){
         h = h - 12;
-        meridium = "PM";
+        meridium = "pm";
     }
     
     h = (h < 10) ? "0" + h : h;

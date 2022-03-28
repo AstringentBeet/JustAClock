@@ -36,7 +36,8 @@ this will be more of a UI demo, but this may change depending on what ideas come
 
 ### What I Learned
 
-Well as of right now, the importance of logging information, but that goes without saying.
+- basic ajax
+- CSS Flexbox
 
 ### Resources
 
@@ -46,6 +47,9 @@ Trust me, bro.
 
 #### 03/25/2022
 Created the skeleton of the app.
+
+#### 03/28/2022
+Rearranged some files and added async Javascript to the webpage. As of now, the interval is set to refresh every second, but not to t noticeable degree. The next step is to add in the fade-in introduction, followed by the typed out clock. If I'm feeling confident enough, I'll add a different theme to the demo. 
 
 ## Author
 
