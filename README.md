@@ -49,7 +49,10 @@ Trust me, bro.
 Created the skeleton of the app.
 
 #### 03/28/2022
-Rearranged some files and added async Javascript to the webpage. As of now, the interval is set to refresh every second, but not to t noticeable degree. The next step is to add in the fade-in introduction, followed by the typed out clock. If I'm feeling confident enough, I'll add a different theme to the demo. 
+Rearranged some files and added async Javascript to the webpage. As of now, the interval is set to refresh every second, but not to t noticeable degree. The next step is to add in the fade-in introduction, followed by the typed out clock. If I'm feeling confident enough, I'll add a different theme to the demo.
+
+#### 05/03/2022
+Figuring out fetch API as a whole is the next (small) hurdle I'm figuring out at the moment. Next week will begin the next phase 
 
 ## Author
 
